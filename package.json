@@ -11,6 +11,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "jest": "^27.0.6"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbegush/zookeepr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbegush/zookeepr/issues"
+  },
+  "homepage": "https://github.com/tbegush/zookeepr#readme"
 }
